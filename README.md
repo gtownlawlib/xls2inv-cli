@@ -58,8 +58,8 @@ A properly-formatted Excel template file (proc-card-log-TEMPLATE.xlsx) is includ
 
 ## Developer Information ##
 
-Developed by:
-Tom Boone
-Associate Law Librarian for Electronic Resources and Services
-Georgetown Law Library
+Developed by:  
+Tom Boone  
+Associate Law Librarian for Electronic Resources and Services  
+Georgetown Law Library  
 <trb74@georgetown.edu>
